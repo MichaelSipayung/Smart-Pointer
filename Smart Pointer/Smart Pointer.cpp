@@ -62,7 +62,7 @@ int main()
 	std::cout << "Automatically freed the current local object using shared_ptr" << std::endl;
 	use_factory();
 	problem();
-
+	
 
 
 
